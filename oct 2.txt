@@ -1,0 +1,64 @@
+2 oct 
+
+Game name idea: Bad Apple
+
+
+Quest: increase difficulty of next boss
+Several decks. Easy encounters, medium, hard etc 
+Increasing difficult once is good (harder encounter for better rewards). But increasing multiple times is bad (more likely to be wiped). Introduces dynamic where bad Apple will want to:
+- not increase if they think party hasn’t
+- Increase if they think party has
+Maybe difficulty of encounter is rolled at time of encounter. Each difficulty increase has a chance of applying. That was plausible deniability remains.
+
+—-
+
+Diversity in character representation.
+Can sometimes be at odds with the aesthetic/theme of the game. 
+
+Fruit are not gendered - inclusivity 
+
+“Everybody benefits from accessibility”
+
+Accessibility- cards can be scanned. Zoom in for larger text. Click on keywords for explanations. Cognitive disabilities. 
+
+
+
+----------------
+
+
+Use of phones at the table
+
+Article about phone table ettiquet.
+https://gnomestew.com/how-do-you-feel-about-players-checking-their-phones-during-a-session-pros-and-cons/
+
+
+
+----
+
+card idea:
+
+maybe once bad apple is revealed, he is able to draw from bad apple exclusive deck.
+
+powerful late game game-ending cards:
+"Bad Apple-pocalypse" -> kill all heroes.
+
+
+can other players draw from this too in the early game? 
+* bad apple cards get removed from non bad apple on reveal
+* leads to power spikes in short term, but leads to more confusion on deduction of identity of bad apple.
+
+
+---
+
+
+maybe rewards can be drafted piles of cards like citadels
+
+---
+
+
+maybe a quest type of system where fulfilling certain conditions gives you rewards, makes you morepowerful, allows bad apple to scale final encounter.
+
+these quests would be things that cause "weird behaviour". 
+eg. 
+"deal combat damage to another player" -> gain 3c
+"fizzle another player's spell" -> gain 2c

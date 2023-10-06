@@ -1,0 +1,26 @@
+card type:
+
+i like the tension between private/public information
+
+maybe i can have cards/equipment that you can 
+
+
+---
+
+when interfacing with map + choosing where to go next:
+maybe "seer" type role can get partial information about the event
+if it's treasure: is the chest cursed/mimic? is the reward a trinket/equipment/loot?
+
+----
+
+been struggling with how to allow bad man to do bad acts in tabletop setting
+
+perhaps make game have digital component, so bad man is able to interact with the game systems from their pc 
+
+---
+
+Thoughts about digital/tabletop hybrid game:
+
+benefit - less maintainance/upkeep. Traditional tabletop games require players to manually interface with each system (moving tokens around, changing health values, etc.). If some of these chores could be reduced, I see that as an upside.
+
+downside - if you're not careful, you could end up in a situation where players are "hiding" behind the screen. I want this game to be driven by social interactions, so there needs to be some systems/mechanics requiring players to interface with the physical table and their fellow players.

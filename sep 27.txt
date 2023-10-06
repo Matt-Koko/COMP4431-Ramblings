@@ -1,0 +1,62 @@
+27 sep 2023
+
+have been struggling with problem of
+"how can bad man have extra info/privelages in tabletop setting"?
+
+exploration of other games:
+- one night ultimate werewolf
+- mafia
+- chameleon
+- secret hitler
+
+most games have a "night phase" or similar, where players close their eyes to allow for assmetric information.
+
+in a game spanning multiple rounds, many decisions, this system has downsides:
+- would be too cumbersome 
+- might still give away who bad man is
+
+so have been struggling with solution:
+- one was to hybridise the game, have electronic componenet
+- but this doesn't work unless it's fluid integration
+- (eg of crypto and not having representation in real world)
+
+for a while i was thinking to just digitise the game
+(it would still be a tabletop game)
+- every player sits at the table with a laptop
+- voting can still happen physically
+- hands, cards, decks, etc. are all digitsed
+- but you lose tactility
+- raise the barrier to entry (laptops are required to play)
+
+instead, can go for hybrid model, where each player plays with phone
+- "everyone has a phone in their pocket anyways"
+- state is preserved with app/web app 
+- QR codes to make state sync as smooth as possible
+- or maybe just take picture of entire hand/board and app will parse the cards
+
+
+------
+
+
+Card idea:
+“… and a sesame seed bun”
+“No more cards can be played on this stack.
+To play: must be your first card played when given priority.”
+
+Seperate decks colour coordinated to players? Allows for cards to interact with colour. “Choose the targets for the next red spell to resolve”
+
+What if everyone’s deck is different? Inspired by other asymmetric games like Root.
+
+Maybe each turn “draw until you have X cards”. So you can hold on to powerful cards if you want, but you are incentivised to use cards given as best you can to draw more.
+
+
+Card idea:
+“Lemon Eon”
+
+
+----
+
+General goal of game.
+Players must collaborate to get the most out of their cards and beat boss encounters.
+
+

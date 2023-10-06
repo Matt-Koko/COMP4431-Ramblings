@@ -1,0 +1,17 @@
+
+Game name idea:
+clumsy kitchenaid -
+
+use stack to "craft a spell" build a recipe
+but you have two hands, you have to do something good something bad, or you have to 
+
+
+"convince the table that you played red's card"
+> vote
+
+
+notion of "soft restock"
+
+
+
+Binary Tree style map (similar to slay the spire), party votes left/right

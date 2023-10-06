@@ -1,0 +1,125 @@
+oct 3
+
+DnD DM Screen
+material choice:
+* acrylic
+* cardboard
+* plastic sleeves - cardboard inserts <-- allows for modular inserts. the back of the sleeves identify the player/class.
+* metal/magnetic with cardbord printouts that you stick on with magnets.
+
+each player gets 3 inserts for their class:
+- explain rules, class specific mechanics
+
+last insert is player allegiance. for 3 players, it will say nothing (maybe general hints?). the the bad apple, it will outline bad apple specific mechanics.
+
+
+------
+
+
+player shield
+
+dune has this type of thing
+
+PLAUSIBLE DENIABILITY:
+Three main mechanics:
+1. Probabilistic Outcomes
+2. Player Quests (may not align with "good" behaviour)
+3. Random Map Events
+
+
+----
+
+THEMATIC:
+What is the thematic reason for going on a quest, defeating a final boss, 1v3 experience?
+One idea: 
+In this world of fresh produce (fruits, veg, nuts, etc.) (represents pre-industrialised society) processed foods (sugar, chocolates, etc.) (represents industrialism) threaten the status quo. The denizens of the various towns have banded together and nomiated heroes representing them to tackle this existential threat. However, one of the supposed heroes [either "has been bought out", "has been corrupted" something like that] the [final boss, who is driving the push for industrialism? Maybe it's cocoa beans. Rooted in jealousy, because other fruits etc. are enjoyable straight off the vine. "I just wanted to bring the same joy to this world all of you do".]
+
+Primitivism: (Art Movement)
+There is a rich history of artists idealising the aesthetic of primitive society.
+https://en.wikipedia.org/wiki/Primitivism
+
+Anarcho-primitivism: (Social Movement)
+"According to anarcho-primitivists, the shift from hunter-gatherer to agricultural subsistence during the Neolithic Revolution gave rise to coercion, social alienation, and social stratification."
+"Anarcho-primitivism argues that civilization is at the root of societal and environmental problems. Primitivists also consider domestication, technology and language to cause social alienation from "authentic reality". As a result, they propose the abolition of civilization and a return to a hunter-gatherer lifestyle."
+https://en.wikipedia.org/wiki/Anarcho-primitivism
+
+
+Benefits:
+- Gives a sense of overarching story/narrative to the game. Gives a flavour-driven reason why players are on a quest, and a motivation to play. 
+- Allows players to easily identify what allegience a character in this world is, based on whether they are a dessert.
+
+Detriments:
+- The story might become a little too presriptive.
+- Themes might not be appropriate for all ages/demographics.
+
+Some other ideas for foods fighting for industrialism:
+
+Cassava: Cassava is a starchy root vegetable that contains toxic compounds when raw. It must be properly processed, usually by peeling, chopping, and boiling, to make it safe and edible.
+
+Taro: Taro is another root vegetable that can be toxic if consumed raw. It's typically cooked by boiling, steaming, or frying before it's eaten.
+
+Bitter Melon: Bitter melon is a gourd-like vegetable that, as the name suggests, has a very bitter taste when raw. It's often used in Asian and Indian cuisine and is usually cooked, stir-fried, or stuffed to reduce its bitterness.
+
+Fava Beans: While not toxic, raw fava beans have a bitter and slightly toxic compound called vicine. They are typically blanched and peeled before consumption.
+
+Quince: Quince is a fruit that is extremely hard and astringent when raw. It's usually cooked or processed into jams, jellies, or other sweet preparations.
+
+Jackfruit: Raw jackfruit has a mildly sweet and fruity aroma, but it can be quite bland and starchy. It's often cooked and used as a meat substitute in vegetarian dishes due to its fibrous texture.
+
+Plantains: Unlike sweet bananas, raw plantains are starchy and not very sweet. They are usually cooked, fried, or boiled before consumption.
+
+Yucca (Cassava): Yucca, similar to cassava, is a root vegetable that needs to be processed and cooked to remove its toxic compounds and make it palatable.
+
+https://chat.openai.com/c/e2c6a089-dbf1-4c7f-9f64-df10f4dbb9ab
+
+---
+
+Class idea:
+Kale: The scaling faction. 
+Very weak early, but is able to become more powerful at a rate that exceeds other factions. 
+Is it worth the implementation cost for a pun?
+
+
+---
+
+Defeat monster idea:
+Maybe when you defeat a moster, its related drops are added to the card pool that the players draw from. Eg. you defeat a deep frying machine. Churro clubs are added to the draw pile. 
+
+
+
+---
+
+Todo:
+* check out Gloomhaven
+* check out Aeon's End
+
+---
+
+map idea:
+
+should there be Betrayal at the House on the Hill style cards that you flip onto the table once a route is selected?
+Should progression over time. 
+Maybe there can be cards that interact with the player path? (Send players back one tile to repeat an encounter, etc.).
+
+
+
+
+--------
+
+Boss Encounters, Death Mechanics, Win Conditions
+
+Party encounter with boss. 
+Previously, I was thinking that bad Apple win condition would be simply to wipe party. Which means it is possible to win “early” by so drastically sabotaging party that they are wiped by a pre-final boss.
+
+Now I’m thinking:
+For each encounter, each player has an opportunity to declare combat against the boss. If there is a full wipe, nobody wins. The bad Apple has to play risk/reward of scaling up for final fight while not allowing teammates to become too powerful. This helps solve the “bad Apple will always do bad things” linear gameplay. The bad Apple needs strong teammates to clear intermediary bosses, so is incentivised to help teammates become stronger, at least some of the time.
+
+If a player dies in combat, should they be unable to act for the rest of the encounter? Should they just pay a death penalty to revive? If latter, maybe condition to pass encounter is to have at least one play not pay the death penalty during the encounter. 
+
+Turn order:
+You have a speed stat. You roll a d6 and add the result (initiative). Players take turns being the active player in descending order of initiative. Order is preserved between encounters if not all players acted. Once all players have acted, initiative is re-rolled.
+Probably can make cards that interact with speed + initiative rolls.
+Fits into design philosophy of controlled randomness.
+
+
+

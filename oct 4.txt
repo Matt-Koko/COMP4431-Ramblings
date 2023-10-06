@@ -1,0 +1,10 @@
+oct 4
+
+map idea:
+maybe the question mark encounters, instead of being the same random event for all members of the party, should be a secret random event for each player?
+
+
+--- 
+player stats
+
+on your player card, you have various "tracks" with 2 counters. 1 is the threshold (what the stat resets to after each encounter). 2 is the current value of that stat. various card will say "Gain +2 bonus Strength." etc.

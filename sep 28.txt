@@ -1,0 +1,71 @@
+in slay the spire, the more floor fights you win without getting a potion, the higher your chance of getting a potion. 
+
+could add some kind of luck-based mechanic for drawing special consumables/treasure etc. Maybe when you defeat a boss, the drops are randomised by phone.
+Private rolls - on phone (sleuthing, looting, treasure)
+Public rolls - on table (combat, stack)
+
+
+regicide, you have to work together to defeat a series of bosses without sharing information.
+i imagine the core gameplay to be similar here. "town" wants to defeat all monsters while scaling up enough (scaling mechanics, introduce risk/reward of harder fights for more rewards, but higher chance of dying early).
+
+
+
+Card idea - look at top card of treasure deck, choose whether to put it on bottom of deck or not.
+
+
+Stats for each hero
+Refill -> the capacity you draw up to (maybe this happens at the end of your turn)
+Stength -> the default dmg you will deal to a monster.
+Evasion -> When attacked, attacker must roll this threshold in order to deal damage
+Armour -> Ignore this much damage when you are attacked. (expires at end of turn?)
+
+I want card velocity to be high, so card impact must be low. Or monster health must be high. In traditional board games this would be a chore to track, but since we have phone, we can track easily.
+
+
+Game Name ideas:
+Monsters & Munchies (DnD format)
+Of Monsters and Munchies (of monsters and men reference)
+
+Betrayed at the Banquet Table
+Subterfuge & Sustenance
+Betrayal at the Banquet
+
+
+
+card type idea - states and scaling.
+- state based cards that keep state between fights "persistant"
+    - eg. equipment that reads "every 6 attacks you play, gain one strength"
+    - gameplay loop of bringing the effect just shy of its activation threshold, so that you can have a stronger start in the next fight.
+- state based cards that do not keep state between fights "ephemeral"
+    - also allows for in-fight scaling, but resets between fights so you can have stronger scaling curves, variety. "snowball" mechanics
+
+Allows for different type of scaling.
+
+card type idea - curses
+when drawn, must give to another player. gets removed when that player dies (or otherwise purifies the curse).
+
+hero idea - scales with number of active curses. fits into design of philosophy of forcing good men to do bad things sometimes to give bad man plausible deniability. (like the protections in secret hitler).
+
+
+mechanic idea - difficulty that scales with time. Inspired by systems eg. Risk of Rain. Maybe bad man is trying to slow down the party enough that the final boss scales.
+
+
+---
+
+Is integration with app a bad thing? I'd argue no. We want to give town "tasks", like in games eg. Project Winter or Among Us. A little "busy work" which acts as a reason for town to interface with phone. This way, bad man can also look at phone to gather more information, select encounters, sabotage events, 
+
+---
+
+did a bunch of research on tech for mobile development.
+
+Progressive Web App vs Native App
+
+Pure Native (XCode etc.) vs Frameworks
+
+React Native vs Flutter
+
+React Native CLI vs Expo
+
+
+
+
