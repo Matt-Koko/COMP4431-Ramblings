@@ -9,7 +9,7 @@ exploration of other games:
 - chameleon
 - secret hitler
 
-most games have a "night phase" or similar, where players close their eyes to allow for assmetric information.
+most games have a "night phase" or similar, where players close their eyes to allow for asymmetric information.
 
 in a game spanning multiple rounds, many decisions, this system has downsides:
 - would be too cumbersome 
